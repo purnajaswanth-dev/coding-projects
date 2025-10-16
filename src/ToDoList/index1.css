@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    text-align: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+}
+.box{
+    height: 1000px;
+    width: 750px;
+    background-color: black;
+}
+h1{
+    padding: 50px;
+    font-size: 70px;
+    color: white;
+}
+input{
+    width: 450px;
+    height: 40px;
+    font-size: 15px;
+   
+}
+.hi{
+    margin: 40px;
+}
+.add{
+    height: 40px;
+    width: 60px;
+    background-color: rgb(68, 216, 68);
+    color: white;
+    font-size: 20px;
+    outline: 0px;
+   border: 0px;
+   padding-bottom: 33px;
+   padding-top: 6px;
+   border-radius: 5px;
+}
+.del{
+     height: 48px;
+    width: 80px;
+    background-color: red;
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+    outline: 0px;
+   border: 0px;
+   padding-bottom: 33px;
+   padding-top: 6px;
+   border-radius: 5px;
+}
+.up{
+     height: 48px;
+    width: 60px;
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+    outline: 0px;
+   border: 0px;
+   padding-bottom: 33px;
+   padding-top: 6px;
+   border-radius: 5px;
+}
+.down{
+     height: 48px;
+    width: 60px;
+    color: white;
+    font-size: 20px;
+    outline: 0px;
+   border: 0px;
+   padding-bottom: 33px;
+   padding-top: 6px;
+   border-radius: 5px;
+}
+ol{
+    padding: 0px;
+}
+li{
+    font-size: 25px;
+    height: 50px;
+    border: 2px solid rgb(235, 230, 230);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 5px;
+    color: white;
+}
+.task{
+    flex: 1;
+}
+
+   

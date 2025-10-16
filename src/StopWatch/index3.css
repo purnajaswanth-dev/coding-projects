@@ -1,0 +1,85 @@
+body{
+    background-image: url("./Bgwatch.jpg");
+    background-size: cover;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    color: white;
+    font-size: 100px;
+    margin: 0px;
+}
+.main{
+  margin: 0px;
+}
+/* Base style for all buttons */
+
+/* Orange button */
+.start {
+  background: linear-gradient(145deg, #FF6F00, #FF5722);
+  color: white;
+  box-shadow: 0 6px 10px #FF5722;
+  font-size: 15px;
+  padding: 12px 24px;
+  margin: 12px;
+  margin-left: 40px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.start {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px #FF5722;
+}
+
+/* White button */
+.reset {
+  background: #FFFFFF;
+  color: #003366;
+  box-shadow: 0 6px 10px #888888;
+  font-size: 15px;
+  padding: 12px 24px;
+  margin: 12px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.reset {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px #555555;
+}
+
+/* Cyan button */
+.stop {
+  background: linear-gradient(145deg, #00FFFF, #40E0D0);
+  color: #003366;
+  box-shadow: 0 6px 10px #00CCCC;
+  font-size: 15px;
+  padding: 12px 24px;
+  margin: 12px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stop {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px #00CCCC;
+}

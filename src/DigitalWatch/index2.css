@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background-image: url('/Bgclock.jpg');
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    margin-bottom: 500px;
+    color: white;
+   font-size: 100px;
+    font-family: 'Orbitron', sans-serif; /* Optional futuristic font */
+    margin-top: 310px;
+
+  /* Text shadow for strong contrast */
+  text-shadow: 
+    2px 2px 6px rgba(0, 0, 0, 0.8),   /* Main black shadow */
+    0 0 15px rgba(255, 255, 255, 0.6), /* Outer white glow */
+    0 0 30px rgba(0, 204, 255, 0.4);   /* Subtle blue glow */
+    backdrop-filter: blur(10px);
+}
+
+
+
+
