@@ -1,3 +1,9 @@
+# Hi, I'm <Your Name> 👋
+- 🔭 I'm learning Frontend Development (HTML, CSS, JS, React)
+- 🌱 I’m currently building small UI projects
+- 💻 Check out my projects below
+- 📫 Reach me: <sunkarapurnajaswanth@gmail.com>
+
 # My Frontend Projects
 
 1. Amazon Layout (HTML, CSS)
