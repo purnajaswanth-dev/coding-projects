@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm sunkara purna jaswanth 👋
 - 🔭 I'm learning Frontend Development (HTML, CSS, JS, React)
 - 🌱 I’m currently building small UI projects
 - 💻 Check out my projects below
